@@ -42,3 +42,10 @@ Essential contact information is included for easy communication.
 10) Overall Design:
 -The layout is well-structured and visually appealing, creating a positive user experience.
 -Responsive design ensures compatibility across various devices.
+
+
+Codsoft Web Developer Internship
+Task : Beginner Level - Task 1
+Languages : HTML, CSS & JavaScript
+Ide : Microsoft Visual Studio
+
