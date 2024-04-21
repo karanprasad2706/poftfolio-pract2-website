@@ -427,14 +427,101 @@ footer {
 
  
 @media only screen and (max-width: 480px) {
+    header {
+        padding: 10px;
+    }
+
     .logo img {
-        margin-left: 10px;  
-        max-width: 60px;  
+        margin-left: 10px;
+        max-width: 60px;
     }
 
     .navigation ul {
-        margin-right: 10px; 
+        margin-right: 10px;
     }
 
-    
+    .social-icons {
+        margin-left: 0; /* Adjust as needed */
+    }
+
+    #skills {
+        padding: 10px;
+    }
+
+    .skills-container {
+        gap: 10px; /* Adjust as needed */
+    }
+
+    .skill-box {
+        width: 100px; /* Adjust as needed */
+    }
+
+    .progress-bar {
+        margin-bottom: 5px; /* Adjust as needed */
+    }
+
+    .progress-bar p {
+        margin-left: 10px; /* Adjust as needed */
+    }
+
+    #Proficiency {
+        padding: 10px;
+    }
+
+    .proficiency-bars p {
+        margin-left: 10px; /* Adjust as needed */
+    }
+
+    .proficiency-description p {
+        margin-top: 20px; /* Adjust as needed */
+        margin-right: 10px; /* Adjust as needed */
+    }
+
+    #projects {
+        padding: 20px 10px; /* Adjust as needed */
+    }
+
+    .projects-container {
+        gap: 10px; /* Adjust as needed */
+    }
+
+    .project-box {
+        width: calc(100% - 20px); /* Adjust as needed */
+    }
+
+    .project-info p {
+        font-size: 12px; /* Adjust as needed */
+    }
+
+    #Achievements {
+        padding: 10px;
+    }
+
+    .achievement {
+        width: calc(50% - 20px); /* Adjust as needed */
+    }
+
+    .achievement img {
+        max-width: 100%; /* Adjust as needed */
+    }
+
+    #resume {
+        padding: 10px;
+    }
+
+    #contact {
+        padding: 10px;
+    }
+
+    .contact-info p {
+        font-size: 14px; /* Adjust as needed */
+    }
+
+    footer {
+        padding: 10px;
+    }
+
+    .footer-content p {
+        font-size: 12px; /* Adjust as needed */
+    }
 }
